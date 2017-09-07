@@ -11,7 +11,7 @@ they may be a good place to look when learning a new algorithm.
 The machine learning models conform to the sklearn API. They all have `fit` and
 `transform`/`predict` methods as well as a `score` method. These are documented
 in [base.py](mlkit/base.py) with the abstract classes `Estimator` and
-`Transformer`.
+`FeatureTransformer`.
 
 ### Example
 
