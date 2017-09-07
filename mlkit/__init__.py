@@ -7,4 +7,3 @@ from .kmeans import KMeans
 from .linear_regression import LinearRegression
 from .knn import KNearest
 from .neural_net import NeuralNet
-from .pipeline import unsupervised_pipeline
